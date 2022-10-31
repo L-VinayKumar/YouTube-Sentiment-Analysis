@@ -64,6 +64,12 @@ emoji package :_
 
     * Top 20 Most-Frequent Emojis
 ![Logo](https://github.com/L-VinayKumar/YouTube-Sentiment-Analysis/blob/main/YouTube%20Sentiment-Analysis/Top%2020%20Emojis.PNG?raw=true)
+    
+    * Like-rate according to the categories
+![Logo](https://github.com/L-VinayKumar/YouTube-Sentiment-Analysis/blob/main/YouTube%20Sentiment-Analysis/Like-rate.PNG?raw=true)
+    
+    * Trending-Videos
+![Logo](https://github.com/L-VinayKumar/YouTube-Sentiment-Analysis/blob/main/YouTube%20Sentiment-Analysis/Trending.PNG?raw=true)
 
 
 ## Conclusion:

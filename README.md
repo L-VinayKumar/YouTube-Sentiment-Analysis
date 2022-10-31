@@ -40,13 +40,21 @@ _matplotlib package :_
 
 > $ sudo pip install matplotlib
 
-_nltk package :_
+plotly package :_
 
-> $ sudo pip install nltk
+> $ sudo pip install plotly
 
 _wordcloud package :_
 
 > $ sudo pip install wordcloud
+
+textblob package :_
+
+> $ sudo pip install TextBlob
+
+emoji package :_
+
+> $ sudo pip install emoji
 
 
 ## Analyze the sentiments with stop words using WordCloud and Plotly.

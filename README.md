@@ -8,10 +8,12 @@ With the prevalence of social media, people are more familiar with publicly shar
 ## Methodology:
 
     1. Description
-    2. Objective Statement
-    3. Prerequisite
-    4. Analyze the sentiments
-    5. Conclusion
+    2. Data collection
+    3. Objective Statement
+    4. Prerequisite
+    5. Data Preprocessing
+    6. Analyze the sentiments
+    7. Conclusion
 
 ### Description:
 This project works by scraping YouTube comments and identify the sentiment of comments and shows the WordCloud of most frequent words/emojis and positive/negative sentiment.

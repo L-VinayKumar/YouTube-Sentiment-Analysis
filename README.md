@@ -4,7 +4,7 @@ With the prevalence of social media, people are more familiar with publicly shar
 
 
 ![App Screenshot](https://images.unsplash.com/photo-1611162616475-46b635cb6868?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8eW91dHViZSUyMGxvZ298ZW58MHx8MHx8&w=1000&q=80)
-For full report of this project, please visit: [Sentiment Analysis](https://github.com/L-VinayKumar/YouTube-Sentiment-Analysis/blob/main/YouTube%20Sentiment-Analysis/Youtube-analysis.ipynb)
+
 ## Methodology:
 
     1. Description
@@ -58,6 +58,7 @@ emoji package :_
 
 
 ## Analyze the sentiments with stop words using WordCloud and Plotly.
+Full report of this project: [Sentiment Analysis](https://github.com/L-VinayKumar/YouTube-Sentiment-Analysis/blob/main/YouTube%20Sentiment-Analysis/Youtube-analysis.ipynb)
     * positive comments
 ![Logo](https://github.com/L-VinayKumar/YouTube-Sentiment-Analysis/blob/main/YouTube%20Sentiment-Analysis/Positive_Comments.PNG?raw=true)
     

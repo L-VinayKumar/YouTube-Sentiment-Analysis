@@ -52,7 +52,7 @@ _wordcloud package :_
 
 textblob package :_
 
-> $ sudo pip install TextBlob
+> $ sudo pip install TextBlb
 
 emoji package :_
 

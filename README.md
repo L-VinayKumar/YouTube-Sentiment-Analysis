@@ -1,6 +1,6 @@
 # **YouTube Sentiment-Analysis**
 
-With the prevalence of social media, people are more familiar with publicly sharing their opinions these days. Some people even become content creators on major social media platforms, such as Instagram and YouTube. Therefore, these websites are ideal resources for sentiment analysis. By deploying the technique, the efficiency of social monitoring and brand marketing are enhanced. Creators and brands can perceive the viewers' emotion provoked by the content they create, and further decide whether there are adjustments to make. 
+With the prevalence of social media, people are more familiar with publicly sharing their opinions these days. Some people even become content creators on major social media platforms, such as Instagram and YouTube. Therefore, these websites are ideal resources for sentiment analysis. By deploying the technique, the efficiency of social monitoring and brand marketing are enhanced. Creators and brands can perceive the viewers' emotion provoked by the content they create, and further decide whether there are adjustments to make 
 
 
 ![App Screenshot](https://images.unsplash.com/photo-1611162616475-46b635cb6868?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8eW91dHViZSUyMGxvZ298ZW58MHx8MHx8&w=1000&q=80)
